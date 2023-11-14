@@ -8,7 +8,7 @@ import './assets/main.css'
 
 import axios from 'axios';
 
-axios.defaults.baseURL = 'http://localhost:8080/';
+axios.defaults.baseURL = 'https://8080-lucaszrafae-exemplospri-ge4cfwqxgd0.ws-us106.gitpod.io/';
 
 const app = createApp(App)
 
